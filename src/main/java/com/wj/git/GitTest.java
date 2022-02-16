@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("Hello git3!");
         System.out.println("Hello git4! hot-fix");//与hot-fix分支正常合并
         System.out.println("Hello git5! master");//与hot-fix分支合并发生冲突
+        System.out.println("Hello git4! hot-fix");
+        System.out.println("Hello git5! hot-fix2");
     }
 }
